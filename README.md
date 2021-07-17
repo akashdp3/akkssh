@@ -12,3 +12,7 @@
 - 😄 Pronouns: he/him
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkssh&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitapuri" alt="Github Streak Stats">
+</p>
