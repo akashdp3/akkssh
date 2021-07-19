@@ -1,7 +1,6 @@
-<h1 align="center">Hey, I am Akash</h1>
+<h1 align="center">Hey, I am Akash 👋🏻</h1>
 <h3 align="center">Frontend Developer with passion to build</h3>
 
-<br />
 <br />
 
 - 🔭 I’m currently working on a react, javascript and react-springs.
